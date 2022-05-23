@@ -21,7 +21,7 @@ v2=sample_aligned.bam
 numthreads=8
 
 # prefix of bt2 files must be in path to folder (also including folder name)
-genome=/data/white/genomes/Human/GRCh38_E90/bowtie2/Homo_sapiens.GRCh38.dna.primary_assembly
+genome=/data/white/miranda/Miranda_genomes/GRCh38_noalt_as/GRCh38_noalt_as
 
 # *******************************************************************************
 

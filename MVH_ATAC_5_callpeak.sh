@@ -11,7 +11,7 @@
 #
 # To be completed after removing duplicates
 #
-# To use MACS2: need to install it into a conda environment 
+# To use MACS2: need to install it into a conda environment
 # Once installing (which I have already installed), activate the environment by:
 # module add python/3.7.1
 # module add conda/conda3
